@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning scientist at Amazon, Berlin where I am working on Hyperparameter Optmization and AutoML. They are techniques behind AWS SageMaker [Automatic Model Tuning](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning.html) and [AutoPilot](https://aws.amazon.com/sagemaker/autopilot/). 
+Since July 2017, I am a machine learning scientist at Amazon, Berlin. I am currently working on Hyperparameter Optmization and AutoML, whhich are the techniques powering AWS SageMaker [Automatic Model Tuning](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning.html) and [AutoPilot](https://aws.amazon.com/sagemaker/autopilot/).
 
-Before Amazon, I did my PhD in Aalto Univerisity, advised by [Prof. Juho Rousu](https://people.aalto.fi/juho.rousu). We developed a series of work on machine learning methods for small molecule identification and won the Category 2 of Automatic Structural Identification at the [CASMI challenge 2016](http://www.casmi-contest.org/2016/results.shtml).
+Before Amazon, I did my PhD at [Aalto Univerisity](https://www.aalto.fi/en/department-of-computer-science), advised by [Prof. Juho Rousu](https://people.aalto.fi/juho.rousu). We developed a series of work on machine learning methods for small molecule identification and our method (Team Brouard) won the [CASMI challenge 2016](http://www.casmi-contest.org/2016/results.shtml)(Category 2 of Automatic Structural Identification).
