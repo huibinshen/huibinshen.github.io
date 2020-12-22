@@ -9,12 +9,3 @@ location: "Espoo, Finland"
 ---
 
 Teaching assistant to [Prof. Aristides Gionis](https://www.kth.se/profile/argioni).
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======a

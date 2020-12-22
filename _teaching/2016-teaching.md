@@ -9,12 +9,3 @@ location: "Espoo, Finland"
 ---
 
 Teaching assistant to [Prof. Juho Rousu](https://people.aalto.fi/juho.rousu).
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======a
