@@ -4,17 +4,8 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-teaching
 venue: "Aalto University, Department of Computer Science"
-date: 2015
+date: 2015-02-01
 location: "Espoo, Finland"
 ---
 
 Teaching assistant to [Prof. Juho Rousu](https://people.aalto.fi/juho.rousu).
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======a
