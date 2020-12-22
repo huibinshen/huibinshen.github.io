@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huibin Shen"
+title                    : "Huibin Shen's homepage"
 title_separator          : "-"
 name                     : &name "Huibin Shen"
 description              : &description "Machine Learning Scienctist at Amazon Berlin"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/huibinshen"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
