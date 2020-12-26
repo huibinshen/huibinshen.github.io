@@ -9,7 +9,8 @@ citation: 'Huibin Shen (2017). &quot;Machine Learning for Small Molecule Identif
 ---
 
 
-Click title for more detail.
+Link: [[pdf]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/24783/isbn9789526072920.pdf?sequence=1&isAllowed=y) [[Award]](http://bioinf.fi/winner-of-the-best-thesis-award/)
+
 
 ## Abstract
 
@@ -20,5 +21,3 @@ This thesis aims to solve the problem of identifying the molecular structures th
 The main contribution of this thesis is to open a novel direction to bridge the gap between the limited spectral database and the vast molecular database with the help of molecular fingerprints. Molecular fingerprints are a binary representation to encode the structures or properties of a molecule. Kernel based machine learning methods are used to predict the molecular fingerprints from tandem mass spectra. Then the predicted fingerprints are used to match the fingerprints of mole-cules in some molecular database to derive an identification. Multiple kernel learning are also proposed to combine different views of tandem mass spectra. Finally, a one-step approach based on input output kernel regression is also applied to solve this problem, which becomes the new state of the art as demonstrated in several benchmarks including the recent Critical Assessment of Small Molecule Identification (CASMI) 2016 challenge.
 
 <b><span style="color:red">(Best Finnish bioinformatics PhD thesis done in 2016-2017)</span></b>
-
-Link: [[pdf]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/24783/isbn9789526072920.pdf?sequence=1&isAllowed=y) [[Award]](http://bioinf.fi/winner-of-the-best-thesis-award/)

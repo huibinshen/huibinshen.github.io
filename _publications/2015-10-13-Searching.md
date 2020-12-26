@@ -1,11 +1,11 @@
 ---
 title: "Searching molecular structure databases with tandem mass spectra using CSI: FingerID"
 collection: publications
-permalink: /publication/2016-06-15-Fast
-date: 2016-06-15
-venue: 'Bioinformatics'
-paperurl: 'https://academic.oup.com/bioinformatics/article/32/12/i28/2288626?login=true'
-citation: 'Céline Brouard, <b>Huibin Shen</b>, Kai Dührkop, Florence d'Alché-Buc, Sebastian Böcker, Juho Rousu. (2017). &quot;Fast metabolite identification with input output kernel regression&quot; <i>Bioinformatics</i>'
+permalink: /publication/2015-10-13-Searching
+date: 2015-10-13
+venue: 'Proceedings of the National Academy of Sciences'
+paperurl: 'https://www.pnas.org/content/112/41/12580.short'
+citation: 'Kai Dührkop, <b>Huibin Shen</b>, Marvin Meusel, Juho Rousu, Sebastian Böcker. (2017). &quot;Searching molecular structure databases with tandem mass spectra using CSI: FingerID&quot; <i>Proceedings of the National Academy of Sciences</i>'
 ---
 
 
@@ -13,6 +13,6 @@ Click title for more detail.
 
 ## Abstract
 
-Motivation: An important problematic of metabolomics is to identify metabolites using tandem mass spectrometry data. Machine learning methods have been proposed recently to solve this problem by predicting molecular fingerprint vectors and matching these fingerprints against existing molecular structure databases. In this work we propose to address the metabolite identification problem using a structured output prediction approach. This type of approach is not limited to vector output space and can handle structured output space such as the molecule space.
+Metabolites provide a direct functional signature of cellular state. Untargeted metabolomics experiments usually rely on tandem MS to identify the thousands of compounds in a biological sample. Today, the vast majority of metabolites remain unknown. We present a method for searching molecular structure databases using tandem MS data of small molecules. Our method computes a fragmentation tree that best explains the fragmentation spectrum of an unknown molecule. We use the fragmentation tree to predict the molecular structure fingerprint of the unknown compound using machine learning. This fingerprint is then used to search a molecular structure database such as PubChem. Our method is shown to improve on the competing methods for computational metabolite identification by a considerable margin.
 
-Results: We use the Input Output Kernel Regression method to learn the mapping between tandem mass spectra and molecular structures. The principle of this method is to encode the similarities in the input (spectra) space and the similarities in the output (molecule) space using two kernel functions. This method approximates the spectra-molecule mapping in two phases. The first phase corresponds to a regression problem from the input space to the feature space associated to the output kernel. The second phase is a preimage problem, consisting in mapping back the predicted output feature vectors to the molecule space. We show that our approach achieves state-of-the-art accuracy in metabolite identification. Moreover, our method has the advantage of decreasing the running times for the training step and the test step by several orders of magnitude over the preceding methods.
+Link: [[pdf]](https://www.pnas.org/content/112/41/12580.full.pdf)
