@@ -5,7 +5,7 @@ permalink: /publication/2017-thesis
 date: 2017-03-30
 venue: 'Aalto University publication series DOCTORAL DISSERTATIONS, 25/2017'
 paperurl: 'https://aaltodoc.aalto.fi/handle/123456789/24783'
-citation: 'Huibin Shen (2017). &quot;https://aaltodoc.aalto.fi/handle/123456789/24783&quot; <i>Aalto University publication series DOCTORAL DISSERTATIONS, 25/2017</i>'
+citation: 'Huibin Shen (2017). &quot;Machine Learning for Small Molecule Identification&quot; <i>Aalto University publication series DOCTORAL DISSERTATIONS, 25/2017</i>'
 ---
 
 
