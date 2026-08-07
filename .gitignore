@@ -1,4 +1,9 @@
 _site/
 
-# mac os 
+# mac os
 .DS_Store
+
+# local ruby/bundler build artifacts
+.bundle/
+vendor/
+Gemfile.lock

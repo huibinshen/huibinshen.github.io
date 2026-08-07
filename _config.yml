@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huibin Shen's homepage"
 title_separator          : "-"
 name                     : &name "Huibin Shen"
-description              : &description "Machine Learning Scienctist at Amazon Berlin"
+description              : &description "Senior Applied Scientist at Amazon, Berlin"
 url                      : https://huibinshen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huibinshen/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huibin Shen"
   avatar           : "huibinshen.jpg"
-  bio              : "Machine Learning Scientist at Amazon Berlin"
+  bio              : "Senior Applied Scientist at Amazon, Berlin"
   location         : "Berlin, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
